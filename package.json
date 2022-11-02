@@ -1,0 +1,11 @@
+{
+  "name": "fake-react",
+  "version": "1.0.0",
+  "description": "React를 클론하기 위한 바닐라 자바스크립트 프로젝트입니다",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kimhanlim",
+  "license": "ISC"
+}
